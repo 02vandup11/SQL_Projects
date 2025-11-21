@@ -10,6 +10,7 @@ It includes accident data, vehicle data, location details, weather conditions, a
 
 ## 🗂️ Dataset Overview
 **Database Name:** `road_accidents`  
+
 **ER Daigram**
 <img width="1028" height="619" alt="image" src="https://github.com/user-attachments/assets/9803869e-10f7-4845-a18c-d709a40b0882" />
 
